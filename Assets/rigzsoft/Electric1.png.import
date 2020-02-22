@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Electric1.png-8fd345382f67173edc0d92de5d85c8ab.stex"
+path="res://.import/Electric1.png-e9d9e4c1e02a716be7576e8381683ed9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/rigzsoft/Electric/Electric1.png"
-dest_files=[ "res://.import/Electric1.png-8fd345382f67173edc0d92de5d85c8ab.stex" ]
+source_file="res://Assets/rigzsoft/Electric1.png"
+dest_files=[ "res://.import/Electric1.png-e9d9e4c1e02a716be7576e8381683ed9.stex" ]
 
 [params]
 

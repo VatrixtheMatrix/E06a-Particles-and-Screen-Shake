@@ -6,4 +6,4 @@ func _ready():
 	pass
 
 func _physics_process(delta):
-	pass
+	$Camera.add_trauma(0.1)
